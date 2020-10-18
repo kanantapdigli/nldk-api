@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KodElan-Api", "KodElan-Api\KodElan-Api.csproj", "{322340EC-0369-451D-AEA3-AB0F111E1A8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{322340EC-0369-451D-AEA3-AB0F111E1A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{322340EC-0369-451D-AEA3-AB0F111E1A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{322340EC-0369-451D-AEA3-AB0F111E1A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{322340EC-0369-451D-AEA3-AB0F111E1A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D442A38-871B-427E-88E3-3327AF0E7E34}
+	EndGlobalSection
+EndGlobal
